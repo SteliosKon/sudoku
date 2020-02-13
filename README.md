@@ -1,2 +1,2 @@
-# sudoku
-A sudoku game solver
+# Sudoku
+A sudoku game solver with backtracking 
